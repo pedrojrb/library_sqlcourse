@@ -1,0 +1,20 @@
+/* FIRST FUNCTION */
+
+CREATE DEFINER=`root`@`localhost` FUNCTION `CALCULATE_IVA`(price FLOAT) 
+RETURNS float
+NO SQL
+BEGIN
+	DECLARE IVA float;
+    SET IVA = (precio * 0.21);
+    RETURN IVA;
+END
+
+/*SECOND FUNCTION */
+
+CREATE DEFINER=`root`@`localhost` FUNCTION `get_length_of_word`(word VARCHAR(50)) RETURNS int
+    NO SQL
+BEGIN
+	DECLARE RESULT INT;
+	SET RESULT = count(word);
+    RETURN RESULT;
+END
