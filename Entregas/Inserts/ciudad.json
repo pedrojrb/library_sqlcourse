@@ -1,0 +1,106 @@
+[
+    {
+        "nombre": "Rosario",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Rafaela",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Ciudad Autonoma de Buenos Aires",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Cordoba",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Mar del Plata",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Ciudad de San Juan",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Paraná",
+        "id_pais": 1
+    },
+    {
+        "nombre": "Montevideo",
+        "id_pais": 2
+    },
+    {
+        "nombre": "Salto",
+        "id_pais": 2
+    },
+    {
+        "nombre": "Paysandú",
+        "id_pais": 2
+    },
+    {
+        "nombre": "Canelones",
+        "id_pais": 2
+    },
+    {
+        "nombre": "Asuncion",
+        "id_pais": 3
+    },
+    {
+        "nombre": "Ciudad del este",
+        "id_pais": 3
+    },
+    {
+        "nombre": "San Lorenzo",
+        "id_pais": 3
+    },
+    {
+        "nombre": "Encarnacion",
+        "id_pais": 3
+    },
+    {
+        "nombre": "Santiago de Chile",
+        "id_pais": 4
+    },
+    {
+        "nombre": "Iquique",
+        "id_pais": 4
+    },
+    {
+        "nombre": "Punta Arenas",
+        "id_pais": 4
+    },
+    {
+        "nombre": "New York",
+        "id_pais": 5
+    },
+    {
+        "nombre": "Chicago",
+        "id_pais": 5
+    },
+    {
+        "nombre": "Seattle",
+        "id_pais": 5
+    },
+    {
+        "nombre": "Sevilla",
+        "id_pais": 6
+    },
+    {
+        "nombre": "Barcelona",
+        "id_pais": 6
+    },
+    {
+        "nombre": "Madrid",
+        "id_pais": 6
+    },
+    {
+        "nombre": "Vigo",
+        "id_pais": 6
+    },
+    {
+        "nombre": "Malaga",
+        "id_pais": 6
+    }
+]
